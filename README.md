@@ -6,7 +6,7 @@
 
 # Installation
 
-### Get MongoDB from from http://mongodb.org/
+### Get MongoDB from http://mongodb.org/
 ### Install pymongo http://api.mongodb.org/python/current/installation.html
 ### Get an OSM XML data from http://download.geofabrik.de/europe/croatia-latest.osm.bz2
 ### Run fill_db.py and wait around 3 minutes, it takes some time to fill up
